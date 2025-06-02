@@ -40,6 +40,8 @@ Add this to your .env (hide it from the Order):
 
 VITE_API_URI=http://localhost:8000/api/execute/
 🪞 Mirror of Compilation (UI Preview)
+![UI Preview](Screenshot%20%28285%29.png)
+
 
 
 ⚠️ Dark Magic Disclaimer
