@@ -31,9 +31,11 @@ docker build -t code-executor .
 docker run -p 8000:8000 code-executor
 
 # Ignite the frontend flames
+```bash
 cd ../client
 npm install
 npm run dev
+```
 Add this to your .env (hide it from the Order):
 
 VITE_API_URI=http://localhost:8000/api/execute/
