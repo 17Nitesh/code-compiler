@@ -40,7 +40,7 @@ Add this to your .env (hide it from the Order):
 
 VITE_API_URI=http://localhost:8000/api/execute/
 🪞 Mirror of Compilation (UI Preview)
-(Upload a screenshot of your dark UI here)
+
 
 ⚠️ Dark Magic Disclaimer
 🕷️ This project runs user code. Without proper sandboxing or resource guards, public deployment may result in chaos. Proceed with caution.
